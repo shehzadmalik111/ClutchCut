@@ -1,0 +1,6 @@
+{
+  "name": "NovaCut",
+  "description": "Professional multi-track video editor with effects, filters, transitions, keyframes, audio tools, speed curves, and high-res export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
